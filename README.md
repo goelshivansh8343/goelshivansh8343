@@ -193,7 +193,7 @@ https://github.com/Dakshgupta1229/Airline-Satisfaction-Analysis
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/goelshivansh8343//output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%" />
+  <img src="https://raw.githubusercontent.com/goelshivansh8343/goelshivansh8343/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%" />
 </p>
 
 ---
