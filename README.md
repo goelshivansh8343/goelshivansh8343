@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="./banner.jpg" alt="Daksh Gupta Banner" width="100%">
+  <img src="./banner.jpg" alt="Shivansh Goel Banner" width="100%">
 </p>
 
-<h1 align="center">Hi 👋, I'm Daksh Gupta</h1>
+<h1 align="center">Hi 👋, I'm Shivansh Goel</h1>
 
 <h3 align="center">
-AI Engineer • Data Scientist • Full Stack Developer
+AI Engineer • Data Scientist • ML Engineer
 </h3>
 
 <p align="center">
