@@ -181,11 +181,11 @@ https://github.com/Dakshgupta1229/Airline-Satisfaction-Analysis
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Dakshgupta1229&theme=tokyonight&hide_border=true" width="80%" />
+  <img src="https://streak-stats.demolab.com?user=goelshivansh8343&theme=tokyonight&hide_border=true" width="80%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dakshgupta1229&theme=tokyo-night&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=goelshivansh8343&theme=tokyo-night&hide_border=true" width="100%" />
 </p>
 
 ---
@@ -193,7 +193,7 @@ https://github.com/Dakshgupta1229/Airline-Satisfaction-Analysis
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Dakshgupta1229/Dakshgupta1229/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%" />
+  <img src="https://raw.githubusercontent.com/goelshivansh8343//output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%" />
 </p>
 
 ---
