@@ -9,11 +9,11 @@ AI Engineer • Data Scientist • ML Engineer
 </h3>
 
 <p align="center">
-Passionate about building intelligent AI applications using Machine Learning, Generative AI, LLMs, RAG, and Full Stack Development.
+Passionate about building intelligent AI applications using Machine Learning, Generative AI, LLMs, RAG, and Deep Learning.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dakshgupta1229&label=Profile%20Views&style=for-the-badge&color=0e75b6" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=goelshivansh8343&label=Profile%20Views&style=for-the-badge&color=0e75b6" alt="Profile Views"/>
 </p>
 
 ---
@@ -21,25 +21,23 @@ Passionate about building intelligent AI applications using Machine Learning, Ge
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/Dakshgupta1229">
+  <a href="https://github.com/goelshivansh8343">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
-  <a href="https://www.linkedin.com/in/dakshgupta217/">
+  <a href="https://www.linkedin.com/in/shivanshgoel89/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="mailto:dakshgupta217@gmail.com">
+  <a href="mailto:goelshivansh61@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
-  <a href="https://leetcode.com/u/Daksh_Gupta_217/">
+  <a href="https://leetcode.com/u/Shivanshgoel8343/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
 
-  <a href="https://www.geeksforgeeks.org/profile/dakshguj4j1">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-  </a>
+  
 </p>
 
 <p align="center">
@@ -56,7 +54,7 @@ Passionate about building intelligent AI applications using Machine Learning, Ge
 
 - 🎓 B.Tech Computer Science Engineering Student
 - 🤖 Passionate about **Artificial Intelligence, Machine Learning & Data Science**
-- 🌱 Currently learning **Generative AI, LLMs, LangGraph, RAG & MLOps**
+- 🌱 Currently learning **Generative AI, LLMs, LangGraph, RAG , LangChain & MLOps**
 - 💻 Building real-world AI applications using **Python, React, Node.js & FastAPI**
 - 🚀 Interested in **AI Agents, Full Stack Development & Cloud Technologies**
 - 📚 Solving **Data Structures & Algorithms** problems regularly
