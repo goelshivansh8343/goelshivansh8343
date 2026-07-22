@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.jpg" alt="Shivansh Goel Banner" width="100%">
+  <img src="./ChatGPT Image Jul 22, 2026, 05_58_11 PM.png" alt="Shivansh Goel Banner" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Shivansh Goel</h1>
